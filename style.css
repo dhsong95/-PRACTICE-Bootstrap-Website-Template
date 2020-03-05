@@ -56,11 +56,13 @@ html, body {
   border: 1px solid #563d7c;
 }
 
+/*---Jumbotron---*/
 .jumbotron {
   padding: 1rem;
   border-radius: 0;
 }
 
+/*---Welcome Section---*/
 .padding {
   padding-bottom: 2rem;
 }
@@ -78,6 +80,7 @@ html, body {
   margin-bottom: 1rem;
 }
 
+/*---Three Column Section(HTML, Bootstrap, CSS3)---*/
 .fa-code {
   color: #e54d26;
 }
@@ -95,6 +98,20 @@ html, body {
   margin: 1rem;
 }
 
+/*---Two Column Section---*/
+a.btn-primary {
+  color: #f5f5f5 !important;
+}
+
+/*---GIF Section*/
+.fun {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.gif {
+  width: 100%;
+}
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
